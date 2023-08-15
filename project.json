@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "WorldMapEditor",
+  "id": "400c88e1-9d90-4eeb-83f4-86741e8ad3be",
+  "version": "2.4.4",
+  "isNew": false
+}
